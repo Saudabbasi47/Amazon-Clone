@@ -162,7 +162,7 @@ select{
     margin-top: 1rem;
     margin-bottom: 1rem;
     margin-left: 2rem;
-    border:px solid rgb(0, 53, 82);
+    /*border:px solid rgb(0, 53, 82);*/
     margin-bottom:20px;
 }
 .box p {
